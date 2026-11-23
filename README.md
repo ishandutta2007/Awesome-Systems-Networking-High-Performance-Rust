@@ -67,7 +67,7 @@ Below is the comparative breakdown of leading enterprise cloud and SaaS platform
 
 ## 🛠️ Open-Source GitHub Projects (Ranked by Stars)
 
-Each project below includes a live social star badge linking directly to its stargazer community. Entries are sorted in descending order by GitHub stargazers count:
+Each project below includes a live social Stars_Badge linking directly to its stargazer community. Entries are sorted in descending order by GitHub stargazers count:
 
 1. **[Headscale](https://github.com/juanfont/headscale)** <a href="https://github.com/juanfont/headscale/stargazers"><img src="https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white" alt="Headscale Stars" /></a>  
    *An open-source, self-hosted implementation of the Tailscale coordination server, delivering self-sovereign control over your private WireGuard mesh tailnet.* 🛡️
@@ -175,7 +175,7 @@ Contributions are warmly encouraged! Follow these steps to submit additions or i
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a topic branch** (`git checkout -b feat/add-awesome-project`).
 3. 📝 **Update `README.md`** following the existing table or list formatting.
-4. ✅ **Ensure accuracy**: Provide factual links, explicit pricing or star counts, and objective descriptions.
+4. ✅ **Ensure accuracy**: Provide factual links, explicit pricing or Stars_Counts, and objective descriptions.
 5. 🚀 **Submit a Pull Request** with a concise summary of why the library or platform belongs here.
 
 ---
